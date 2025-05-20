@@ -4,3 +4,8 @@ tavily-python
 langchain-google-genai
 tiktoken
 python-dotenv
+googletrans
+fpdf
+speech_recognition
+pyttsx3
+serper
