@@ -8,7 +8,7 @@ load_dotenv()
 
 def draft_answer_node(data):
     # Initialize the LLM with the specified model and temperature
-    llm = ChatGoogleGenerativeAI(model="gemini-1.5-flash-001", temperature=0.5, max_tokens = 3000) 
+    llm = ChatGoogleGenerativeAI(model="geminin-1.5-flash-001", temperature=0.5, max_tokens = 3000) 
     
     # Extract and stringify the research_data from input
     research_data = data.get("research_data", {})
