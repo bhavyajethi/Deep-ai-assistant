@@ -39,14 +39,16 @@ A powerful AI assistant that performs **deep web research** using **Google Gemin
 
 Ensure the following are installed:
 
-- Python 3.x
-- Streamlit
 - langchain
 - langgraph
-- google-generativeai
-- serper
-- fpdf
+- langchain-google-genai
+- tiktoken
+- python-dotenv
 - googletrans
+- fpdf
+- speech_recognition
+- pyttsx3
+- serper
 
   
 ---
