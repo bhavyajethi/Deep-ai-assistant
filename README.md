@@ -22,20 +22,6 @@ A powerful AI assistant that performs **deep web research** using **Google Gemin
 
 ---
 
-## Project Structure
-deep_research_ai/
-│
-├── agents/
-│ ├── research_agent.py # Handles Gemini and search-based research
-│ ├── answer_drafter_agent.py 
-│
-├── voice_mode.py # Handles voice input/output
-├── app.py # Streamlit frontend app
-├── utils.py # PDF export and translation functions
-├── .env # Stores API keys (ignored in Git)
-├── requirements.txt # Python dependencies
-├── output.pdf # Generated PDF (if any)
-└── README.md # Project documentation
 
 # **Tech Stack**
 
